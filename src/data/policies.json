@@ -1,7 +1,7 @@
 {
   "shipping": {
-    "title": "Shipping Policy",
-    "description": "How, when, and where we ship RV DREAMS orders within the United States.",
+    "title": "Shipping Policy | {{SITE_NAME}}",
+    "description": "How, when, and where we ship {{SITE_NAME}} orders within the United States.",
     "blocks": [
       {
         "type": "p",
@@ -102,7 +102,7 @@
         "type": "p",
         "runs": [
           {
-            "text": "Shipping charges are calculated at checkout and are based on order weight, destination, and selected service level. Applicable state and local sales tax is calculated at checkout based on the shipping address. RV DREAMS LLC collects sales tax in states where we have established economic nexus, in accordance with applicable state law."
+            "text": "Shipping charges are calculated at checkout and are based on order weight, destination, and selected service level. Applicable state and local sales tax is calculated at checkout based on the shipping address. {{SITE_NAME}} collects sales tax in states where we have established economic nexus, in accordance with applicable state law."
           }
         ]
       },
@@ -207,7 +207,7 @@
     ]
   },
   "returns": {
-    "title": "Returns & Refunds Policy",
+    "title": "Returns & Refunds Policy | {{SITE_NAME}}",
     "description": "Thirty days, no restocking fee, and a real person on the other end.",
     "blocks": [
       {
@@ -473,15 +473,15 @@
             "break": true
           },
           {
-            "text": " Returns address: RV DREAMS LLC — Returns Dept., 10228 E Northwest Hwy, Dallas, TX 75238"
+            "text": " Returns address: {{SITE_NAME}} — Returns Dept., 10228 E Northwest Hwy, Dallas, TX 75238"
           }
         ]
       }
     ]
   },
   "warranty": {
-    "title": "Warranty",
-    "description": "Limited warranty coverage on every RV DREAMS product.",
+    "title": "Warranty | {{SITE_NAME}}",
+    "description": "Limited warranty coverage on every {{SITE_NAME}} product.",
     "blocks": [
       {
         "type": "p",
@@ -558,7 +558,7 @@
         "type": "p",
         "runs": [
           {
-            "text": "RV DREAMS LLC warrants that its products will be free from defects in materials and workmanship under normal household use for the applicable coverage period. If a product fails due to a manufacturing defect, we will repair or replace it, or refund the purchase price, at our option."
+            "text": "{{SITE_NAME}} warrants that its products will be free from defects in materials and workmanship under normal household use for the applicable coverage period. If a product fails due to a manufacturing defect, we will repair or replace it, or refund the purchase price, at our option."
           }
         ]
       },
@@ -645,7 +645,7 @@
         "type": "p",
         "runs": [
           {
-            "text": "This warranty is the sole and exclusive warranty offered by RV DREAMS LLC. To the maximum extent permitted by law, RV DREAMS LLC disclaims all other warranties, express or implied, including merchantability and fitness for a particular purpose. RV DREAMS LLC's total liability under this warranty shall not exceed the original purchase price of the product. Some states do not allow limitations on implied warranties, so the above limitation may not apply to you."
+            "text": "This warranty is the sole and exclusive warranty offered by {{SITE_NAME}}. To the maximum extent permitted by law, {{SITE_NAME}} disclaims all other warranties, express or implied, including merchantability and fitness for a particular purpose. {{SITE_NAME}}'s total liability under this warranty shall not exceed the original purchase price of the product. Some states do not allow limitations on implied warranties, so the above limitation may not apply to you."
           }
         ]
       },
@@ -683,8 +683,8 @@
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "description": "The terms governing your use of www.rvdreamsllc.com and your purchase of RV DREAMS products.",
+    "title": "Terms of Service | {{SITE_NAME}}",
+    "description": "The terms governing your use of www.rvdreamsllc.com and your purchase of {{SITE_NAME}} products.",
     "blocks": [
       {
         "type": "p",
@@ -706,11 +706,11 @@
             "text": "These Terms of Service (\"Terms\") constitute a legally binding agreement between you (\"you\" or \"Customer\") and "
           },
           {
-            "text": "RV DREAMS LLC",
+            "text": "{{SITE_NAME}}",
             "tag": "strong"
           },
           {
-            "text": ", a Texas limited liability company with its principal place of business at 10228 E Northwest Hwy, Dallas, TX 75238 (\"RV DREAMS,\" \"we,\" \"us,\" or \"our\"). By accessing www.rvdreamsllc.com, creating an account, or placing an order, you agree to be bound by these Terms. If you do not agree, do not use the site."
+            "text": ", a Texas limited liability company with its principal place of business at 10228 E Northwest Hwy, Dallas, TX 75238 (\"{{SITE_NAME}},\" \"we,\" \"us,\" or \"our\"). By accessing www.rvdreamsllc.com, creating an account, or placing an order, you agree to be bound by these Terms. If you do not agree, do not use the site."
           }
         ]
       },
@@ -766,7 +766,7 @@
         "type": "p",
         "runs": [
           {
-            "text": "We accept major credit cards, debit cards, and the payment methods displayed at checkout. Payment is collected through the secure payment link in the invoice we email after you place your order, and orders ship once payment is received. You are responsible for any applicable taxes, duties, and fees associated with your purchase. Sales tax is collected in jurisdictions where RV DREAMS LLC has established economic nexus."
+            "text": "We accept major credit cards, debit cards, and the payment methods displayed at checkout. Payment is collected through the secure payment link in the invoice we email after you place your order, and orders ship once payment is received. You are responsible for any applicable taxes, duties, and fees associated with your purchase. Sales tax is collected in jurisdictions where {{SITE_NAME}} has established economic nexus."
           }
         ]
       },
@@ -835,7 +835,7 @@
         "type": "p",
         "runs": [
           {
-            "text": "All content on this site — including text, product descriptions, photographs, illustrations, logos, graphics, and the RV DREAMS name and mark — is the property of RV DREAMS LLC or its licensors and is protected by United States and international copyright and trademark law. You may not reproduce, distribute, modify, or create derivative works from any content without our prior written consent."
+            "text": "All content on this site — including text, product descriptions, photographs, illustrations, logos, graphics, and the {{SITE_NAME}} name and mark — is the property of {{SITE_NAME}} or its licensors and is protected by United States and international copyright and trademark law. You may not reproduce, distribute, modify, or create derivative works from any content without our prior written consent."
           }
         ]
       },
@@ -894,7 +894,7 @@
         "type": "p",
         "runs": [
           {
-            "text": "If you submit a product review, comment, or other content, you grant RV DREAMS LLC a non-exclusive, worldwide, royalty-free, perpetual license to use, reproduce, and display that content in connection with our business. You represent that you own or have the right to submit the content and that it does not infringe any third party's rights."
+            "text": "If you submit a product review, comment, or other content, you grant {{SITE_NAME}} a non-exclusive, worldwide, royalty-free, perpetual license to use, reproduce, and display that content in connection with our business. You represent that you own or have the right to submit the content and that it does not infringe any third party's rights."
           }
         ]
       },
@@ -918,7 +918,7 @@
         "type": "p",
         "runs": [
           {
-            "text": "To the maximum extent permitted by applicable law, RV DREAMS LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including lost profits, lost data, or business interruption, arising out of or relating to your use of the site or products, even if we have been advised of the possibility of such damages. Our total aggregate liability shall not exceed the amount you paid for the product giving rise to the claim."
+            "text": "To the maximum extent permitted by applicable law, {{SITE_NAME}} shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including lost profits, lost data, or business interruption, arising out of or relating to your use of the site or products, even if we have been advised of the possibility of such damages. Our total aggregate liability shall not exceed the amount you paid for the product giving rise to the claim."
           }
         ]
       },
@@ -930,7 +930,7 @@
         "type": "p",
         "runs": [
           {
-            "text": "You agree to indemnify, defend, and hold harmless RV DREAMS LLC and its officers, members, employees, and agents from any claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of your violation of these Terms or your misuse of the site or products."
+            "text": "You agree to indemnify, defend, and hold harmless {{SITE_NAME}} and its officers, members, employees, and agents from any claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of your violation of these Terms or your misuse of the site or products."
           }
         ]
       },
@@ -1003,7 +1003,7 @@
             "break": true
           },
           {
-            "text": " RV DREAMS LLC"
+            "text": " {{SITE_NAME}}"
           },
           {
             "break": true
@@ -1029,7 +1029,7 @@
     ]
   },
   "privacy": {
-    "title": "Privacy Policy",
+    "title": "Privacy Policy | {{SITE_NAME}}",
     "description": "What we collect, why we collect it, and how you can control it.",
     "blocks": [
       {
@@ -1049,7 +1049,7 @@
         "type": "p",
         "runs": [
           {
-            "text": "RV DREAMS LLC (\"RV DREAMS,\" \"we,\" \"us,\" or \"our\") operates www.rvdreamsllc.com. This Privacy Policy explains how we collect, use, disclose, and protect personal information when you visit our site, place an order, or contact us. We are the data controller for information collected through this site."
+            "text": "{{SITE_NAME}} (\"{{SITE_NAME}},\" \"we,\" \"us,\" or \"our\") operates www.rvdreamsllc.com. This Privacy Policy explains how we collect, use, disclose, and protect personal information when you visit our site, place an order, or contact us. We are the data controller for information collected through this site."
           }
         ]
       },
@@ -1205,7 +1205,7 @@
               "tag": "strong"
             },
             {
-              "text": " when required by law, subpoena, court order, or to protect the rights, property, or safety of RV DREAMS, our customers, or others"
+              "text": " when required by law, subpoena, court order, or to protect the rights, property, or safety of {{SITE_NAME}}, our customers, or others"
             }
           ],
           [
@@ -1394,7 +1394,7 @@
             "break": true
           },
           {
-            "text": " RV DREAMS LLC — Privacy Office"
+            "text": " {{SITE_NAME}} — Privacy Office"
           },
           {
             "break": true
@@ -1420,7 +1420,7 @@
     ]
   },
   "accessibility": {
-    "title": "Accessibility Statement",
+    "title": "Accessibility Statement | {{SITE_NAME}}",
     "description": "Our commitment to making www.rvdreamsllc.com usable for everyone.",
     "blocks": [
       {
@@ -1440,7 +1440,7 @@
         "type": "p",
         "runs": [
           {
-            "text": "RV DREAMS LLC is committed to ensuring digital accessibility for people with disabilities. We continually improve the user experience for everyone and apply relevant accessibility standards to our website and communications."
+            "text": "{{SITE_NAME}} is committed to ensuring digital accessibility for people with disabilities. We continually improve the user experience for everyone and apply relevant accessibility standards to our website and communications."
           }
         ]
       },
@@ -1581,7 +1581,7 @@
           ],
           [
             {
-              "text": "Mail: RV DREAMS LLC — Accessibility, 10228 E Northwest Hwy, Dallas, TX 75238"
+              "text": "Mail: {{SITE_NAME}} — Accessibility, 10228 E Northwest Hwy, Dallas, TX 75238"
             }
           ]
         ]

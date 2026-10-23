@@ -21,6 +21,7 @@ import NotFoundPage from '@/pages/NotFoundPage.vue';
 function resolveSiteInfo(value) {
   if (typeof value === 'string') {
     return value
+      .replace(/\{\{SITE_NAME\}\}/g, SITE_NAME)
       .replace(/\(236\)\s*506-1948/g, SITE_PHONE)
       .replace(/\+1?-?236-506-1948/g, SITE_PHONE_RAW)
       .replace(/10228 E Northwest Hwy,?\s*Dallas, TX 75238(?:, United States)?/gi, SITE_ADDRESS_ONE_LINE)
